@@ -26,6 +26,3 @@
 <h3 align="center" style="text-decorations: none; text-align: center; font-size: 30px; font-family: Arial; margin-top: 70px; margin-bottom: 10px">Statistiche GitHub:</h3>
 <br>
 
-<p align="center" style="">
-    <img src="https://github-readme-stats.vercel.app/api?username=TissuB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
-</p>
