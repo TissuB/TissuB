@@ -20,9 +20,3 @@
     Circa un paio di anni fa ho iniziato solamente per curiosità ad imparare a programmare con Python, in quanto alcuni miei amici mi avevano detto che era uno dei linguaggi più facili, anche se in realtà io volevo solo scoprire cosa si cimentava dietro ad ogni videogioco che giocavo, quindi con il tempo, imparavo piano piano a programmare e andando avanti così mi sono appassionato sempre di più, ed ora programmo regolarmente giornalmente con piccoli, o grandi progetti. Ed ora mi sto impegnando sempre di più per diventare un Full Stack Developer.
 </p>
 <br>
-
-
-<br>
-<h3 align="center" style="text-decorations: none; text-align: center; font-size: 30px; font-family: Arial; margin-top: 70px; margin-bottom: 10px">Statistiche GitHub:</h3>
-<br>
-
